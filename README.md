@@ -1,2 +1,2 @@
-# physics-engine-C1
-gravity n isStatic
+# staticSquare
+A static square made using Matter.js physics engine
